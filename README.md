@@ -8,7 +8,7 @@ I skal give tutoren **ører og en stemme**:
 - Den transskriberede tekst sendes som en almindelig besked i chatten. Den skal gennem de samme guardrails som skrevet tekst.
 - Tutorens svar vises som før. Når oplæsning er slået til, læser appen det også højt.
 
-**Start i jeres eget projekt fra øvelse 11.** Den komplette kode ligger i [11 AI Træning](https://github.com/CBS-INNT-26/11_AI_Traening_vejledning). Brug den som facit, hvis I går i stå. Herunder bygger vi funktionerne trin for trin, ligesom i øvelse 11.
+**Start i jeres eget projekt fra øvelse 11.** Den komplette kode ligger i [11 AI Træning_code]([https://github.com/CBS-INNT-26/11_AI_Traening_vejledning](https://github.com/CBS-INNT-26/11_AI_Traening_code)). Brug den som facit, hvis I går i stå. Herunder bygger vi funktionerne trin for trin, ligesom i øvelse 11.
 
 ---
 
